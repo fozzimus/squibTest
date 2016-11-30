@@ -1,6 +1,6 @@
 # Title Ideas
 
-*Familiar Fights 
+*Familiar Fights is such a crappy name.
 
 # Things to Try
 
@@ -16,5 +16,3 @@
 
 * Problem
 * Problem
-
-
