@@ -1,6 +1,6 @@
 require 'squib'
 
-data = Squib.csv file: 'data.csv'
+data = Squib.csv file: 'cards.csv'
 layouts = ['economy.yml', '_part2_01_factions.yml']
 
 Squib::Deck.new cards: data['name'].size, layout: layouts do
